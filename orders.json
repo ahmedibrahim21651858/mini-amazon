@@ -1,0 +1,15 @@
+[
+    {
+        "order_id": "O0001",
+        "username": "diala",
+        "items": [
+            {
+                "product_id": "P1001",
+                "qty": 20,
+                "unit_price": 9.99
+            }
+        ],
+        "total": 199.8,
+        "timestamp": "2026-02-21 20:58:55"
+    }
+]

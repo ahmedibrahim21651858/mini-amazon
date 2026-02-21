@@ -53,12 +53,6 @@ The application stores data using JSON files:
 
 Data remains saved even after restarting the program.
 
----
 
-## Known Limitations
-
-- Passwords stored as plain text
-- Console interface only (no GUI)
-- No admin panel
 
 

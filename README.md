@@ -53,6 +53,16 @@ The application stores data using JSON files:
 
 Data remains saved even after restarting the program.
 
+---
+
+## Known limitations
+
+- No real payment processing → checkout simulates orders without actual transactions
+- Console-based interface → the application runs only in the terminal and does not provide a graphical or web interface
+- Single-user execution → the program assumes only one user is running it at a time
+- No admin management interface → products must be edited manually in products.json
+
+
 
 
 
